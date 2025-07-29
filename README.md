@@ -3,7 +3,7 @@
 
 ---
 
-🚀 I’m a 3rd-year Computer Science student at Ain Shams University, passionate about IoT, AI, mobile development, and teaching tech through hands-on experience.
+🚀 I’m a 3rd-year Computer Science student at Ain Shams University, passionate about IoT, AI, mobile development, and teaching tech.
 
 ---
 
@@ -70,7 +70,7 @@
 
 ### ⚡ Fun Fact
 
-I love building tech that people actually use, teaching what I learn, and spending my time at the gym or watching anime with my cat 🐱💪🍥
+I love building projects that people actually use, teaching what I learn, and i love the Gym and Cats
 
 ---
 
