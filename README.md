@@ -19,7 +19,7 @@
 
 ### 🌱 Currently Learning
 
-- Back-end Development with Node.js, MongoDB
+- Back-end Development with Node.js, .NET
 - Data Science with Python, Pandas, Scikit-learn
 - Advanced Flutter & Firebase
 
