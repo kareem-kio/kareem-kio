@@ -2,8 +2,13 @@
 <h3 align="center">⚙️ Technical President @ <strong>RoboTech</strong> | 💙 Flutter Instructor @ <strong>Support ASU</strong> | 🎤 Public Speaker</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/kareem-kio" alt="Kareem Sultan" width="200" height="200" style="border-radius:50%; object-fit:cover;" />
+  <img src="https://drive.google.com/uc?export=view&id=1pUoygKPAdCAMxjzlNVngVbh76H5wpMbu" 
+       alt="Kareem Sultan" 
+       width="600" 
+       style="border-radius:50%; object-fit:cover;" />
 </p>
+
+
 
 ---
 
