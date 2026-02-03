@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm <strong>Kareem Sultan</strong></h1>
+<h3 align="center">📈 Product Owner Intern @ <strong>Zedny inc</strong></h3>
 <h3 align="center">⚙️ Technical President 25' @ <strong>RoboTech</strong> | 💙 Flutter Instructor @ <strong>Support ASU</strong> | 🎤 Public Speaker</h3>
 
 <p align="center">
