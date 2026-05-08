@@ -4,9 +4,7 @@
   <img src="assets/header.svg" width="100%" />
 </p>
 
-<!-- Animated typing header -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=1000&lines=while(!success)+%7B+tryAgain()+%7D;Building+products+people+actually+use;Code.+Lead.+Ship.+Repeat.;Building+things+faster+than+I+can+document+them;Learning+by+Doing)](https://git.io/typing-svg)
 <img src="https://drive.google.com/uc?export=view&id=1pUoygKPAdCAMxjzlNVngVbh76H5wpMbu" width="600" />
 
 <br/>
