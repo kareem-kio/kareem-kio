@@ -11,7 +11,7 @@
 
 <!-- Badges row -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kareem--sultan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://kareem-portfolio-hazel.vercel.app)
+[![Website](https://img.shields.io/badge/Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kareemsultan.dev)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareem.amr1910@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kareem-kio)
 
