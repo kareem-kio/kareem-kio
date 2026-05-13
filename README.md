@@ -234,7 +234,7 @@ superpower: "Turning complex systems into clean, scalable code"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://prof-delta-five.vercel.app/api?username=kareem-kio&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://prof-delta-five.vercel.app/api?username=kareem-kio&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" />
 <img height="180" src="https://prof-delta-five.vercel.app/api/top-langs/?username=kareem-kio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
@@ -269,6 +269,7 @@ const learning = {
 ---
 
 ## ⚡ Fun Facts
+![RiverUnderRailBridge](https://github.com/user-attachments/assets/81246bf0-4911-430b-b71e-55a5d0c8b739)
 
   
 > 🏋️ You'll find me at the gym when I'm not shipping APIs
@@ -290,7 +291,6 @@ const learning = {
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kareem--sultan)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareem.amr1910@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://kareem-portfolio-hazel.vercel.app)
 [![Resume](https://img.shields.io/badge/Download_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1fZCvIZd5vLyAo_IiyMwOBrSb39wzTM_f/view?usp=sharing)
 
 <br/>
