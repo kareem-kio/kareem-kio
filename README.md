@@ -272,7 +272,7 @@ const learning = {
 ![RiverUnderRailBridge](https://github.com/user-attachments/assets/81246bf0-4911-430b-b71e-55a5d0c8b739)
 
   
-> 🏋️ You'll find me at the gym when I'm not shipping APIs
+> 🏋️ You'll find me at the gym when I'm not shipping API's
 
 > 🐾 My cats are the best
 
