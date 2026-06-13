@@ -159,7 +159,7 @@ superpower: "Turning complex systems into clean, scalable code"
 <tr>
 <td width="50%">
 
-### 🧑‍💻 [Hirely](https://github.com/kareem-kio) — Live Job Board
+### 🧑‍💻 [Hirely](https://github.com/kareem-kio/Hirely) — Live Job Board
 > Node.js · Express · PostgreSQL · React · JWT
 
 - ✅ 15+ RESTful API endpoints
@@ -184,7 +184,7 @@ superpower: "Turning complex systems into clean, scalable code"
 <tr>
 <td width="50%">
 
-### 🤖 [Coachify](https://github.com/kareem-kio) — AI Voice Assistant *(Live)*
+### 🤖 [Coachify](https://github.com/kareem-kio/Coachify) — AI Voice Assistant *(Live)*
 > React · TypeScript · Gemini 2.5 Flash API
 
 - ✅ Real-time AI voice coaching via Gemini audio streaming
