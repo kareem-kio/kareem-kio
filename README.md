@@ -30,6 +30,12 @@ role: "Backend Engineer · Software Engineer · IoT Engineer"
 university: "Ain Shams University — Computer Science (CGPA: 3.6+)"
 graduation: "May 2027"
 
+environment:
+  os: "Arch Linux"
+  package_manager: "pacman + yay"
+  shell: "Bash"
+  desktop: "Hyprland"
+
 currently:
   - "Building StudyOS — a modular student productivity platform"
   - "Exploring: Node.js, .NET, Data Science, system design"
@@ -87,6 +93,7 @@ superpower: "Turning complex systems into clean, scalable code"
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
